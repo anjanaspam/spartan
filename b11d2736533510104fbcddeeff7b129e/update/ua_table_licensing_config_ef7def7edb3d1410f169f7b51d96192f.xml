@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-08 13:18:55</sys_created_on>
-        <sys_id>7d2d6b36533510104fbcddeeff7b12a4</sys_id>
+        <sys_id>ef7def7edb3d1410f169f7b51d96192f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_spartan_spartan1</sys_name>
         <sys_package display_value="spartan" source="sn_spartan">b11d2736533510104fbcddeeff7b129e</sys_package>
         <sys_policy/>
         <sys_scope display_value="spartan">b11d2736533510104fbcddeeff7b129e</sys_scope>
-        <sys_update_name>ua_table_licensing_config_7d2d6b36533510104fbcddeeff7b12a4</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_ef7def7edb3d1410f169f7b51d96192f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-08 13:18:55</sys_updated_on>
     </ua_table_licensing_config>
