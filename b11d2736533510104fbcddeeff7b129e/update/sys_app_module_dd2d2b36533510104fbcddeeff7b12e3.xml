@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="spartan1">952d2b36533510104fbcddeeff7b12af</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>spartan1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_spartan_spartan1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_spartan.spartan1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-08 13:18:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd2d2b36533510104fbcddeeff7b12e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spartan1s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="spartan" source="sn_spartan">b11d2736533510104fbcddeeff7b129e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="spartan">b11d2736533510104fbcddeeff7b129e</sys_scope>
+        <sys_update_name>sys_app_module_dd2d2b36533510104fbcddeeff7b12e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-08 13:18:54</sys_updated_on>
+        <timeline_page/>
+        <title>spartan1s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
